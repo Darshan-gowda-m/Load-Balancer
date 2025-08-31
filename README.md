@@ -86,5 +86,3 @@ quit
 | `--port`      | `8080`        | Load balancer port                                                  |
 | `--algorithm` | `round_robin` | Algorithm (`round_robin`, `least_connections`, `random`, `ip_hash`) |
 
-# --port	8080	Load balancer port
-# --algorithm	round_robin	Algorithm (round_robin, least_connections, random, ip_hash)
