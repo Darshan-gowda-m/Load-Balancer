@@ -80,7 +80,7 @@ quit
 
 
 ### ⚙️ Command Line Options
-Option	Default	Description
---host	localhost	Load balancer host
---port	8080	Load balancer port
---algorithm	round_robin	Algorithm (round_robin, least_connections, random, ip_hash)
+## Option	Default	Description
+# --host	localhost	Load balancer host
+# --port	8080	Load balancer port
+# --algorithm	round_robin	Algorithm (round_robin, least_connections, random, ip_hash)
